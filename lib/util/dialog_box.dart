@@ -20,7 +20,7 @@ class DialogBox extends StatelessWidget {
       backgroundColor: Colors.yellow[300],
       content: Container(
           width: 500,
-          height: 135,
+          height: 200,
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
